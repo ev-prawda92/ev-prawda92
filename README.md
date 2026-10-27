@@ -7,7 +7,7 @@
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/paws-dark.jpg"><img alt="Paws, practice software for vet clinics" src="assets/v2/paws-light.jpg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/marche-dark.jpg"><img alt="Marché, a field guide to what's fresh" src="assets/v2/marche-light.jpg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/marche-dark.jpg"><img alt="Marché, a field guide to what's fresh and the stores you love" src="assets/v2/marche-light.jpg" width="49%"></picture>
 </p>
 <p>
 <a href="https://wordish.evanprawda.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/wordish-dark.jpg"><img alt="Wordish, a multiplayer word game to play with friends and family" src="assets/v2/wordish-light.jpg" width="49%"></picture></a>
