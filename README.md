@@ -7,14 +7,14 @@
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/paws-dark.jpg"><img alt="Paws, practice software for vet clinics" src="assets/v2/paws-light.jpg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/marche-dark.jpg"><img alt="Marché, a field guide to what's fresh and the stores you love" src="assets/v2/marche-light.jpg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/marche-dark-2.jpg"><img alt="Marché, a field guide to what's fresh and the stores you love" src="assets/v2/marche-light-2.jpg" width="49%"></picture>
 </p>
 <p>
-<a href="https://wordish.evanprawda.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/wordish-dark.jpg"><img alt="Wordish, a multiplayer word game to play with friends and family" src="assets/v2/wordish-light.jpg" width="49%"></picture></a>
+<a href="https://wordish.evanprawda.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/wordish-dark-2.jpg"><img alt="Wordish, a multiplayer word game to play with friends and family" src="assets/v2/wordish-light-2.jpg" width="49%"></picture></a>
 <a href="https://github.com/ev-prawda92/arbiter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/arbiter-dark.jpg"><img alt="Arbiter, a resolution desk for prediction markets" src="assets/v2/arbiter-light.jpg" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/ev-prawda92/hearth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/hearth-dark.jpg"><img alt="Hearth, a support agent for home sharing" src="assets/v2/hearth-light.jpg" width="49%"></picture></a>
+<a href="https://github.com/ev-prawda92/hearth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/hearth-dark-2.jpg"><img alt="Hearth, a support agent for home sharing" src="assets/v2/hearth-light-2.jpg" width="49%"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/concord-dark.jpg"><img alt="Concord, the second pass before a health plan pays" src="assets/v2/concord-light.jpg" width="49%"></picture>
 </p>
 
