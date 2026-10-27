@@ -10,7 +10,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/marche-dark.jpg"><img alt="Marché, a field guide to what's fresh" src="assets/v2/marche-light.jpg" width="49%"></picture>
 </p>
 <p>
-<a href="https://wordish.evanprawda.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/wordish-dark.jpg"><img alt="Wordish, a word game made with my dad" src="assets/v2/wordish-light.jpg" width="49%"></picture></a>
+<a href="https://wordish.evanprawda.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/wordish-dark.jpg"><img alt="Wordish, a multiplayer word game to play with friends and family" src="assets/v2/wordish-light.jpg" width="49%"></picture></a>
 <a href="https://github.com/ev-prawda92/arbiter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/arbiter-dark.jpg"><img alt="Arbiter, a resolution desk for prediction markets" src="assets/v2/arbiter-light.jpg" width="49%"></picture></a>
 </p>
 <p>
